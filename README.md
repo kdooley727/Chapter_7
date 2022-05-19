@@ -1,2 +1,2 @@
-# Chapter_7
-Exercises 7-1 and 7-2
+# Chapter_7_Teamwork
+Extra Exercises
